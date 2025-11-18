@@ -1,0 +1,2520 @@
+{
+    "count": 210,
+    "offset_index": 0,
+    "limit": 210,
+    "items": [
+        {
+            "id": "005657cb-d544-46fa-89e6-9027434fd562",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/005657cb-d544-46fa-89e6-9027434fd562",
+                "downloads": "http://10.201.4.160:11600/images/005657cb-d544-46fa-89e6-9027434fd562/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "026e9fa2-e40a-41da-b4e0-77e959904e61",
+            "collection_id": "testgl-95aa92ccfec3eefed3b7cc72de59db62160ea1efff8c791c7866ad7ce9fdb450",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/026e9fa2-e40a-41da-b4e0-77e959904e61",
+                "downloads": "http://10.201.4.160:11600/images/026e9fa2-e40a-41da-b4e0-77e959904e61/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "028b71c9-9b67-4b6f-be76-78b5c056ee96",
+            "collection_id": "justintest-e2499a2dec2f9944d50f1e606ed1cb17626b415c7da78cb2a6796888917909bc",
+            "state": "completed",
+            "filename": "mountains.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/028b71c9-9b67-4b6f-be76-78b5c056ee96",
+                "downloads": "http://10.201.4.160:11600/images/028b71c9-9b67-4b6f-be76-78b5c056ee96/downloads"
+            },
+            "upload": {
+                "path": "520620-mountainspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "02ba2416-21ed-4eea-9782-e4cfca8322c9",
+            "collection_id": "channietest-7e180d05758bda66de0c37ea59ba9383b06c3a2880f478a41928e8fe8f43549f",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/02ba2416-21ed-4eea-9782-e4cfca8322c9",
+                "downloads": "http://10.30.139.66:11600/images/02ba2416-21ed-4eea-9782-e4cfca8322c9/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "03a8b000-28b6-4273-b8ec-9783e5916838",
+            "collection_id": "adp16rollback2testingmarch28-d9962a002675951d5e1cb27da8845f4df68a41cd2493c2c3b65f3cbdeddd2135",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/03a8b000-28b6-4273-b8ec-9783e5916838",
+                "downloads": "http://10.30.139.19:11600/images/03a8b000-28b6-4273-b8ec-9783e5916838/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "03c1fa30-dfc9-4edb-9271-230a94ed5900",
+            "collection_id": "bpcollection-e9394bf29a00f4484547c15ef3329f5b76d7621b8ce8c259e8cba8e69009e8e1",
+            "state": "completed",
+            "filename": "tree.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/03c1fa30-dfc9-4edb-9271-230a94ed5900",
+                "downloads": "http://10.201.4.89:11600/images/03c1fa30-dfc9-4edb-9271-230a94ed5900/downloads"
+            },
+            "upload": {
+                "path": "11940-treepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "0794a364-8d34-4558-b9db-f2b69b12962e",
+            "collection_id": "autocollection01-301e679068f4d3371810a1ef47f14cf58cf06b437aa19ee8914f39f503e7e66a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/0794a364-8d34-4558-b9db-f2b69b12962e",
+                "downloads": "http://10.30.139.125:11600/images/0794a364-8d34-4558-b9db-f2b69b12962e/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "08b29c41-051f-4ab9-9012-ca82a49e1fec",
+            "collection_id": "testcollection2103-108b936694b46ee5694439bffe42fbcd8641152172399cb31e925443ba7a1d95",
+            "state": "imported",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/08b29c41-051f-4ab9-9012-ca82a49e1fec",
+                "downloads": "http://10.30.139.19:11600/images/08b29c41-051f-4ab9-9012-ca82a49e1fec/downloads"
+            },
+            "upload": {
+                "path": "10480-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "0a4b2fb0-9938-47f9-b5eb-32f4343517aa",
+            "collection_id": "greg3-4f7b0cb5bcfc3389d4628d454f6f3616e0cdb089477c4d944673aee4b877220e",
+            "state": "completed",
+            "filename": "plan2.png",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/0a4b2fb0-9938-47f9-b5eb-32f4343517aa",
+                "downloads": "http://10.30.138.41:11600/images/0a4b2fb0-9938-47f9-b5eb-32f4343517aa/downloads"
+            },
+            "upload": {
+                "path": "46288-plan2png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "0d5c4c21-296c-4743-909d-0fc935d89655",
+            "collection_id": "thurs2103-e0ed441d0e7ee7a44bb849d6ed9a47c7dd6b6892ed58996e483c088429f718fc",
+            "state": "imported",
+            "filename": "The-ONS-Podcast-thumbnail-invalid-type.cs",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/0d5c4c21-296c-4743-909d-0fc935d89655",
+                "downloads": "http://10.30.139.19:11600/images/0d5c4c21-296c-4743-909d-0fc935d89655/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnail-invalid-typecs"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "0d5d1b9a-c497-42bc-ba7e-f88681271d52",
+            "collection_id": "jesstest-85f873f9bbb387cb237d066362a068ca2de2822fb0e538135b5d238d2925c14d",
+            "state": "completed",
+            "filename": "covid-dashboard@2x.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/0d5d1b9a-c497-42bc-ba7e-f88681271d52",
+                "downloads": "http://10.201.5.17:11600/images/0d5d1b9a-c497-42bc-ba7e-f88681271d52/downloads"
+            },
+            "upload": {
+                "path": "5377-covid-dashboard2xpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "0da67fd9-8354-47a0-a930-d84acebb0057",
+            "collection_id": "jesstest-9de5896a116a3dc9b955b84abb25eee68b9d1c1282db3bfbd1e9784472133703",
+            "state": "imported",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/0da67fd9-8354-47a0-a930-d84acebb0057",
+                "downloads": "http://10.201.4.160:11600/images/0da67fd9-8354-47a0-a930-d84acebb0057/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "12011f6e-d49b-4732-b0bd-8aeafa259c89",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/12011f6e-d49b-4732-b0bd-8aeafa259c89",
+                "downloads": "http://10.201.4.160:11600/images/12011f6e-d49b-4732-b0bd-8aeafa259c89/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "122096d2-373a-47df-ae29-b50443304599",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "Capture.PNG",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/122096d2-373a-47df-ae29-b50443304599",
+                "downloads": "http://10.30.138.234:11600/images/122096d2-373a-47df-ae29-b50443304599/downloads"
+            },
+            "upload": {
+                "path": "132687-CapturePNG"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "12721944-2f32-4c27-a664-8fca9135093d",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/12721944-2f32-4c27-a664-8fca9135093d",
+                "downloads": "http://10.30.139.125:11600/images/12721944-2f32-4c27-a664-8fca9135093d/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "129792b0-c815-4061-8f9d-49fb080b4c4c",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/129792b0-c815-4061-8f9d-49fb080b4c4c",
+                "downloads": "http://10.201.4.6:11600/images/129792b0-c815-4061-8f9d-49fb080b4c4c/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "134ab67a-c4f3-4f3a-857a-ef7cbc873ec9",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "failed_import",
+            "error": "error reading key from vault",
+            "filename": "dp-upload-service-test.png",
+            "license": {},
+            "links": {
+                "self": "http://10.30.138.203:11600/images/134ab67a-c4f3-4f3a-857a-ef7cbc873ec9",
+                "downloads": "http://10.30.138.203:11600/images/134ab67a-c4f3-4f3a-857a-ef7cbc873ec9/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "13bf21b3-d3d7-4a16-ba74-297f5521218c",
+            "collection_id": "shantest-c8fa8ba25d3cfadd279df6463abc86da9d41f07240995e2b3fd008ecba04213c",
+            "state": "imported",
+            "filename": "2022-03-22_22-13.png",
+            "links": {
+                "self": "http://10.30.138.21:11600/images/13bf21b3-d3d7-4a16-ba74-297f5521218c",
+                "downloads": "http://10.30.138.21:11600/images/13bf21b3-d3d7-4a16-ba74-297f5521218c/downloads"
+            },
+            "upload": {
+                "path": "650006-2022-03-22_22-13png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "1466ee0f-732f-4994-8852-1e9103cbd81f",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/1466ee0f-732f-4994-8852-1e9103cbd81f",
+                "downloads": "http://10.30.139.125:11600/images/1466ee0f-732f-4994-8852-1e9103cbd81f/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "14a87d00-308c-4eb1-8c25-5bbd939dc9a1",
+            "collection_id": "jesstest-85f873f9bbb387cb237d066362a068ca2de2822fb0e538135b5d238d2925c14d",
+            "state": "completed",
+            "filename": "covid-econ-roundup@2x.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/14a87d00-308c-4eb1-8c25-5bbd939dc9a1",
+                "downloads": "http://10.201.5.17:11600/images/14a87d00-308c-4eb1-8c25-5bbd939dc9a1/downloads"
+            },
+            "upload": {
+                "path": "16052-covid-econ-roundup2xpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "15eb8cc2-6519-4abb-b925-e464d19eb834",
+            "collection_id": "jesstestpriv-c01889ae1df0e410e38c989ddd781ed7cfa1f48bea0c7581b148dc5be044dc4b",
+            "state": "completed",
+            "filename": "trello.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/15eb8cc2-6519-4abb-b925-e464d19eb834",
+                "downloads": "http://10.201.5.17:11600/images/15eb8cc2-6519-4abb-b925-e464d19eb834/downloads"
+            },
+            "upload": {
+                "path": "116752-trellopng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "167226a6-ecec-4fd2-8e75-c7c2579be5b0",
+            "collection_id": "channiecachepurge2-385438224a55078a81f2269981acfe96af83d4425b6358f6fe83a82161e416ae",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/167226a6-ecec-4fd2-8e75-c7c2579be5b0",
+                "downloads": "http://10.30.139.66:11600/images/167226a6-ecec-4fd2-8e75-c7c2579be5b0/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "19f94da1-793f-4887-87af-aa374b51fd53",
+            "collection_id": "frantestapproval-b2f6fa1158cb467e84578bb12cd69dbfc092d0481160dfe94d8d39eee4f9fd1b",
+            "state": "completed",
+            "filename": "Personal-inflation-calculator.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/19f94da1-793f-4887-87af-aa374b51fd53",
+                "downloads": "http://10.30.139.66:11600/images/19f94da1-793f-4887-87af-aa374b51fd53/downloads"
+            },
+            "upload": {
+                "path": "19171-Personal-inflation-calculatorpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "1a2c541b-bdd8-424b-986e-24643c9de52a",
+            "collection_id": "adp16test0930publishsandbox-e01acf493f0c2c7df430de41fed643ccee5205d3739541ec837bd0892096ad5a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/1a2c541b-bdd8-424b-986e-24643c9de52a",
+                "downloads": "http://10.30.139.19:11600/images/1a2c541b-bdd8-424b-986e-24643c9de52a/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "1a83c055-08c6-447d-91b0-99d486caad5e",
+            "collection_id": "adhovgllwebchat-c7ca3b2cb6d17c35c9387d5b486b517c1f40fc01ce57be172bd6f8487dc4f338",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/1a83c055-08c6-447d-91b0-99d486caad5e",
+                "downloads": "http://10.201.4.160:11600/images/1a83c055-08c6-447d-91b0-99d486caad5e/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "1a90be2d-e030-4bdc-9c93-4bf57d2134b0",
+            "collection_id": "0000homepagetest-4a8d24a4170c651c55f07230b2f628377579349b82b41e18ea3f6b1f1df4f436",
+            "state": "completed",
+            "filename": "ons-centres.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/1a90be2d-e030-4bdc-9c93-4bf57d2134b0",
+                "downloads": "http://10.201.4.160:11600/images/1a90be2d-e030-4bdc-9c93-4bf57d2134b0/downloads"
+            },
+            "upload": {
+                "path": "10906-ons-centrespng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2122d158-d35b-49d5-9c64-bee50c303a19",
+            "collection_id": "jesstest-ca79f82fac4c3215fba48bb746f1ab85bc00aa740d601a01cf1bf552f3010aa0",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/2122d158-d35b-49d5-9c64-bee50c303a19",
+                "downloads": "http://10.201.4.89:11600/images/2122d158-d35b-49d5-9c64-bee50c303a19/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "22ab80e8-b4a9-48fa-abe5-7e60b029729c",
+            "collection_id": "testgl3-2ac753031ca4a4de957cd0a0f923e2e1a67a1d262a2873a8b1efbcc70825c19b",
+            "state": "imported",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/22ab80e8-b4a9-48fa-abe5-7e60b029729c",
+                "downloads": "http://10.201.4.160:11600/images/22ab80e8-b4a9-48fa-abe5-7e60b029729c/downloads"
+            },
+            "upload": {
+                "path": "324830-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "23083a36-f835-4731-8189-8ee8d7918120",
+            "collection_id": "fake",
+            "state": "completed",
+            "filename": "weekly-death-statistics@2x",
+            "license": {
+                "title": "Open Government Licence v3.0",
+                "href": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "links": {
+                "self": "http://localhost:24700/images/23083a36-f835-4731-8189-8ee8d7918120",
+                "downloads": "http://localhost:24700/images/23083a36-f835-4731-8189-8ee8d7918120/downloads"
+            },
+            "upload": {
+                "path": "images/fake/fake.png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2363dc65-de0d-45d2-92e6-a5f9d71da77c",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/2363dc65-de0d-45d2-92e6-a5f9d71da77c",
+                "downloads": "http://10.201.5.17:11600/images/2363dc65-de0d-45d2-92e6-a5f9d71da77c/downloads"
+            },
+            "upload": {
+                "path": "7462-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "23cc1621-0751-4e13-8bd3-e38995f6bcfb",
+            "collection_id": "huwuploadtesting-120d5b6572a68a7066724aae32a1a787010ba4b587e67ebf132f0d9221c69185",
+            "state": "completed",
+            "filename": "static files architecture diagram.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/23cc1621-0751-4e13-8bd3-e38995f6bcfb",
+                "downloads": "http://10.30.139.66:11600/images/23cc1621-0751-4e13-8bd3-e38995f6bcfb/downloads"
+            },
+            "upload": {
+                "path": "295935-staticfilesarchitecturediagrampng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "249dced8-0016-4307-a297-b2e284cb07f0",
+            "collection_id": "frantesthomepage-18d692ae438c6604fc8ba4caec3c4c7324f96f75e094a3a2b987df4b7562b5e9",
+            "state": "completed",
+            "filename": "b5c06503.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/249dced8-0016-4307-a297-b2e284cb07f0",
+                "downloads": "http://10.30.139.125:11600/images/249dced8-0016-4307-a297-b2e284cb07f0/downloads"
+            },
+            "upload": {
+                "path": "30870-b5c06503png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "249f38d9-f7a9-4434-b616-53a3d86ab4fa",
+            "collection_id": "jesstest-980c0aa78c3338b8eaeb04d7d115931d402fcec05081258113cd628d87f01add",
+            "state": "completed",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/249f38d9-f7a9-4434-b616-53a3d86ab4fa",
+                "downloads": "http://10.201.4.83:11600/images/249f38d9-f7a9-4434-b616-53a3d86ab4fa/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "24d1c0f2-2d2a-48b5-a0e5-7c2fdaa88338",
+            "collection_id": "huwuploadtesting-120d5b6572a68a7066724aae32a1a787010ba4b587e67ebf132f0d9221c69185",
+            "state": "completed",
+            "filename": "TestImage.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/24d1c0f2-2d2a-48b5-a0e5-7c2fdaa88338",
+                "downloads": "http://10.30.139.125:11600/images/24d1c0f2-2d2a-48b5-a0e5-7c2fdaa88338/downloads"
+            },
+            "upload": {
+                "path": "22437-TestImagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "25ec7bd3-a50c-4f35-8b76-a8cf284376ab",
+            "collection_id": "jesstest-4820949b70b4d9ae1aee781ff6aa407ea3b531269124cd64870a54aec262c0f1",
+            "state": "completed",
+            "filename": "penguin.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/25ec7bd3-a50c-4f35-8b76-a8cf284376ab",
+                "downloads": "http://10.30.139.19:11600/images/25ec7bd3-a50c-4f35-8b76-a8cf284376ab/downloads"
+            },
+            "upload": {
+                "path": "38563-penguinpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "267c3114-d3f4-4bf8-b4f7-eee9f052bbd6",
+            "collection_id": "jesstest-58ffc69b9f66381270d23874eef797e836c158b3507d7e35b811f89bc82cd930",
+            "state": "completed",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/267c3114-d3f4-4bf8-b4f7-eee9f052bbd6",
+                "downloads": "http://10.201.4.83:11600/images/267c3114-d3f4-4bf8-b4f7-eee9f052bbd6/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "28a7fe7b-1ca6-4a62-a7d3-2fde68ecef70",
+            "collection_id": "0000homepagetest-b8c25d64a07463d98cc53897d78728483ca26c7f0b270580be38cfc05124e08c",
+            "state": "imported",
+            "filename": "Placeholder_view_vector.svg",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/28a7fe7b-1ca6-4a62-a7d3-2fde68ecef70",
+                "downloads": "http://10.201.4.89:11600/images/28a7fe7b-1ca6-4a62-a7d3-2fde68ecef70/downloads"
+            },
+            "upload": {
+                "path": "3297-Placeholder_view_vectorsvg"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "29b87c33-9524-4e0d-b3ae-b4530e5add53",
+            "collection_id": "adhocalicetest12472-95371af3edf36010e6133c74f9e90ff54084411d2dfb579df033d453ea0b5c81",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/29b87c33-9524-4e0d-b3ae-b4530e5add53",
+                "downloads": "http://10.201.4.160:11600/images/29b87c33-9524-4e0d-b3ae-b4530e5add53/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2aae1c3a-f293-49e4-b9f8-c4e92358d659",
+            "collection_id": "wunmistaticfiletest2-4cd825c3de612fa865540f27433251089c3cf51cbc654d17c73e19d2287912a7",
+            "state": "completed",
+            "filename": "dp-frontend-router flow.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/2aae1c3a-f293-49e4-b9f8-c4e92358d659",
+                "downloads": "http://10.30.139.19:11600/images/2aae1c3a-f293-49e4-b9f8-c4e92358d659/downloads"
+            },
+            "upload": {
+                "path": "625008-dp-frontend-routerflowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2aed8388-5103-4755-b944-daf29bf65baa",
+            "collection_id": "autocollection01-301e679068f4d3371810a1ef47f14cf58cf06b437aa19ee8914f39f503e7e66a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/2aed8388-5103-4755-b944-daf29bf65baa",
+                "downloads": "http://10.30.138.203:11600/images/2aed8388-5103-4755-b944-daf29bf65baa/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2d20ccc9-4e6a-41ca-8fd1-a7a926f3bcda",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/2d20ccc9-4e6a-41ca-8fd1-a7a926f3bcda",
+                "downloads": "http://10.201.5.17:11600/images/2d20ccc9-4e6a-41ca-8fd1-a7a926f3bcda/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2df634cc-cda9-483c-ac96-fc80c7cb3dc3",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "Faster-indicators_homepage-thumbnail.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/2df634cc-cda9-483c-ac96-fc80c7cb3dc3",
+                "downloads": "http://10.201.5.17:11600/images/2df634cc-cda9-483c-ac96-fc80c7cb3dc3/downloads"
+            },
+            "upload": {
+                "path": "5260-Faster-indicators_homepage-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2f968da3-df36-4ee6-a862-9922f3d1763c",
+            "collection_id": "adp16test0930publishsandbox-e01acf493f0c2c7df430de41fed643ccee5205d3739541ec837bd0892096ad5a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/2f968da3-df36-4ee6-a862-9922f3d1763c",
+                "downloads": "http://10.30.139.66:11600/images/2f968da3-df36-4ee6-a862-9922f3d1763c/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "2ffaf54f-3907-400e-96f1-ff6092b388d2",
+            "collection_id": "shantest-c8fa8ba25d3cfadd279df6463abc86da9d41f07240995e2b3fd008ecba04213c",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/2ffaf54f-3907-400e-96f1-ff6092b388d2",
+                "downloads": "http://10.30.138.41:11600/images/2ffaf54f-3907-400e-96f1-ff6092b388d2/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "30b082cb-8409-4262-83e2-b41df4f53f1e",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "uploaded",
+            "filename": "batman.png",
+            "links": {
+                "self": "http://10.30.138.122:11600/images/30b082cb-8409-4262-83e2-b41df4f53f1e",
+                "downloads": "http://10.30.138.122:11600/images/30b082cb-8409-4262-83e2-b41df4f53f1e/downloads"
+            },
+            "upload": {
+                "path": "37641-batmanpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "318c7183-a678-48d2-a109-3a43d50256e4",
+            "collection_id": "jesstest-b22d4cd782697e91c7d291aadc0e7dc7c6897c3f7363a52836cb99940547c3be",
+            "state": "completed",
+            "filename": "cow_PNG50570.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/318c7183-a678-48d2-a109-3a43d50256e4",
+                "downloads": "http://10.201.4.89:11600/images/318c7183-a678-48d2-a109-3a43d50256e4/downloads"
+            },
+            "upload": {
+                "path": "2161840-cow_PNG50570png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "32d6a7b5-5cb1-4b17-9fab-c61d009660cb",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/32d6a7b5-5cb1-4b17-9fab-c61d009660cb",
+                "downloads": "http://10.201.4.83:11600/images/32d6a7b5-5cb1-4b17-9fab-c61d009660cb/downloads"
+            },
+            "upload": {
+                "path": "7462-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "34a47716-058e-4021-b577-eabb9d339bab",
+            "collection_id": "jda123-807f55ea53f960eb9d7b81979eadeef7d3ffb770bd197e2bc602945bfea35e59",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.101:11600/images/34a47716-058e-4021-b577-eabb9d339bab",
+                "downloads": "http://10.201.4.101:11600/images/34a47716-058e-4021-b577-eabb9d339bab/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "357c3499-2abb-4cb8-a139-6495fbd26cf1",
+            "collection_id": "adp16testingapril5-e61725aed1aea426ef3e2a596346bcd7965b4fa96ec3927e9d01e290c35be577",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/357c3499-2abb-4cb8-a139-6495fbd26cf1",
+                "downloads": "http://10.30.139.19:11600/images/357c3499-2abb-4cb8-a139-6495fbd26cf1/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "3680d705-fc4c-46f1-99cd-4c9bb11c9b20",
+            "collection_id": "adp16rollback2testingmarch28-d9962a002675951d5e1cb27da8845f4df68a41cd2493c2c3b65f3cbdeddd2135",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/3680d705-fc4c-46f1-99cd-4c9bb11c9b20",
+                "downloads": "http://10.30.139.19:11600/images/3680d705-fc4c-46f1-99cd-4c9bb11c9b20/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "382bbacd-c644-4c3d-8105-cf7b34b9255a",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "failed_import",
+            "error": "error reading key from vault",
+            "filename": "dp-upload-service-test.png",
+            "license": {},
+            "links": {
+                "self": "http://10.30.139.125:11600/images/382bbacd-c644-4c3d-8105-cf7b34b9255a",
+                "downloads": "http://10.30.139.125:11600/images/382bbacd-c644-4c3d-8105-cf7b34b9255a/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "38a2b8d8-da73-4cde-8888-a23f5a94654b",
+            "collection_id": "autotest-3aa2ee0cb682503ee919de90f0cff2fe6631325e2ee7d83b4a92be23b7fcd303",
+            "state": "failed_import",
+            "error": "error reading key from vault",
+            "filename": "Screenshot 2024-02-08 at 11.58.51.png",
+            "license": {},
+            "links": {
+                "self": "http://10.30.139.125:11600/images/38a2b8d8-da73-4cde-8888-a23f5a94654b",
+                "downloads": "http://10.30.139.125:11600/images/38a2b8d8-da73-4cde-8888-a23f5a94654b/downloads"
+            },
+            "upload": {
+                "path": "620198-Screenshot2024-02-08at115851png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "3bce1ec9-12f5-4563-9e6f-619c7fd801d2",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "completed",
+            "filename": "dp-upload-service-test.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/3bce1ec9-12f5-4563-9e6f-619c7fd801d2",
+                "downloads": "http://10.30.139.125:11600/images/3bce1ec9-12f5-4563-9e6f-619c7fd801d2/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "3c031c2c-b4f9-4310-8ee0-3f2af22783c1",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "completed",
+            "filename": "dp-upload-service-test.png",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/3c031c2c-b4f9-4310-8ee0-3f2af22783c1",
+                "downloads": "http://10.30.138.203:11600/images/3c031c2c-b4f9-4310-8ee0-3f2af22783c1/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "3cba8b04-8edd-4ee1-a909-8301d8009a7f",
+            "collection_id": "testanotherhomepage-c090324b7d4cb96f8e6a964ba9520c5b426ec947d38b426c08cc9367493fad08",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/3cba8b04-8edd-4ee1-a909-8301d8009a7f",
+                "downloads": "http://10.30.139.125:11600/images/3cba8b04-8edd-4ee1-a909-8301d8009a7f/downloads"
+            },
+            "upload": {
+                "path": "15005-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "3dc09892-9614-4b23-99df-c509921d0219",
+            "collection_id": "sprintreviewwed17apr-df962158cd8d9bd90ebb07a72a194f8d8f84e4e39abe7bb146a6aaddfaf38e43",
+            "state": "completed",
+            "filename": "dp-upload-service-test.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/3dc09892-9614-4b23-99df-c509921d0219",
+                "downloads": "http://10.30.139.66:11600/images/3dc09892-9614-4b23-99df-c509921d0219/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "3f4674f2-1d8a-4b4d-825f-7f6eb507bb16",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "download.png",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/3f4674f2-1d8a-4b4d-825f-7f6eb507bb16",
+                "downloads": "http://10.30.138.234:11600/images/3f4674f2-1d8a-4b4d-825f-7f6eb507bb16/downloads"
+            },
+            "upload": {
+                "path": "7326-downloadpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "417ceee9-9fcd-4979-bea1-62cf33183dc3",
+            "collection_id": "autocollection02-5c6f4750891447423fb7dff64f98e9551b216c50b09cd37a9679134361fb7f33",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/417ceee9-9fcd-4979-bea1-62cf33183dc3",
+                "downloads": "http://10.30.138.203:11600/images/417ceee9-9fcd-4979-bea1-62cf33183dc3/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "442f6507-7562-432c-a22a-fa79026f5c40",
+            "collection_id": "manualcollection1-6e989ee4b5ee8f8d49f8ce5f2d1131228ea679c1b7dd5dbd50eabc96458ae883",
+            "state": "failed_import",
+            "error": "error reading key from vault",
+            "filename": "image (4).png",
+            "license": {},
+            "links": {
+                "self": "http://10.30.138.203:11600/images/442f6507-7562-432c-a22a-fa79026f5c40",
+                "downloads": "http://10.30.138.203:11600/images/442f6507-7562-432c-a22a-fa79026f5c40/downloads"
+            },
+            "upload": {
+                "path": "10480-image4png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "45f4ceab-5063-4edd-b349-d53c614a74a6",
+            "collection_id": "testing122344-7c57bb3cc1064b60d9843747964a6d7346db1841aae04e4acc47da0288c6de94",
+            "state": "imported",
+            "filename": "Placeholder_view_vector.svg",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/45f4ceab-5063-4edd-b349-d53c614a74a6",
+                "downloads": "http://10.201.4.89:11600/images/45f4ceab-5063-4edd-b349-d53c614a74a6/downloads"
+            },
+            "upload": {
+                "path": "3297-Placeholder_view_vectorsvg"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "48527bec-1447-4433-b05c-6d1c5abd0c46",
+            "collection_id": "traintest-2a9e7f8cd2aaf19ca79543f055b1393fbd1b3880ab68fb8a615dec5e449020be",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/48527bec-1447-4433-b05c-6d1c5abd0c46",
+                "downloads": "http://10.201.4.89:11600/images/48527bec-1447-4433-b05c-6d1c5abd0c46/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4875ff08-7f0a-4c58-9a62-2c508f57f5bc",
+            "collection_id": "testcollection2103-108b936694b46ee5694439bffe42fbcd8641152172399cb31e925443ba7a1d95",
+            "state": "imported",
+            "filename": "The-ONS-Podcast-thumbnail-invalid-type.cs",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/4875ff08-7f0a-4c58-9a62-2c508f57f5bc",
+                "downloads": "http://10.30.139.19:11600/images/4875ff08-7f0a-4c58-9a62-2c508f57f5bc/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnail-invalid-typecs"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "491d665d-d0f5-4f4b-9570-6c2a28f11c1a",
+            "collection_id": "testaroundons-9a2ea4791fdaecd0ba17451b4fa9476c8867beb49359ee9438920f49b02b0da1",
+            "state": "completed",
+            "filename": "420-4204533_statistics-statistics-icon-hd-png-download.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/491d665d-d0f5-4f4b-9570-6c2a28f11c1a",
+                "downloads": "http://10.201.4.89:11600/images/491d665d-d0f5-4f4b-9570-6c2a28f11c1a/downloads"
+            },
+            "upload": {
+                "path": "16208-420-4204533_statistics-statistics-icon-hd-png-downloadpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "49a58edc-052d-4518-9651-3ace8d32843b",
+            "collection_id": "nathan2-74bc490a1e996974277d8e4d66ed81a22c530fdc45672fcfa02bcf9a67514494",
+            "state": "imported",
+            "filename": "Screenshot 2021-05-06 at 15.28.02.png",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/49a58edc-052d-4518-9651-3ace8d32843b",
+                "downloads": "http://10.201.4.6:11600/images/49a58edc-052d-4518-9651-3ace8d32843b/downloads"
+            },
+            "upload": {
+                "path": "31549-Screenshot2021-05-06at152802png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "49c9136f-cac1-4fcd-8711-2c5c84a9ad87",
+            "collection_id": "testgl3-2ac753031ca4a4de957cd0a0f923e2e1a67a1d262a2873a8b1efbcc70825c19b",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/49c9136f-cac1-4fcd-8711-2c5c84a9ad87",
+                "downloads": "http://10.201.4.6:11600/images/49c9136f-cac1-4fcd-8711-2c5c84a9ad87/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4ad39c47-14dc-481a-81f5-1f488b715f07",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/4ad39c47-14dc-481a-81f5-1f488b715f07",
+                "downloads": "http://10.201.4.83:11600/images/4ad39c47-14dc-481a-81f5-1f488b715f07/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4adcfdba-f222-47b1-b68a-a6f64484471d",
+            "collection_id": "huwuploadtesting-120d5b6572a68a7066724aae32a1a787010ba4b587e67ebf132f0d9221c69185",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/4adcfdba-f222-47b1-b68a-a6f64484471d",
+                "downloads": "http://10.30.139.66:11600/images/4adcfdba-f222-47b1-b68a-a6f64484471d/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4b82f685-6827-425d-8ec2-b9def85b0810",
+            "collection_id": "wunmistaticfiletest-957cc4c8d3bdd3c9c9151b88cb4644d7b5b2ea21b4965d8b4eec36ee8e41f20d",
+            "state": "completed",
+            "filename": "Screenshot 2024-04-26 at 15.20.20.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/4b82f685-6827-425d-8ec2-b9def85b0810",
+                "downloads": "http://10.30.139.66:11600/images/4b82f685-6827-425d-8ec2-b9def85b0810/downloads"
+            },
+            "upload": {
+                "path": "145516-Screenshot2024-04-26at152020png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4c3ef493-789e-4849-bbe5-99461bd40936",
+            "collection_id": "channiecachepurge1-eb980a456ccf7d3bb8bddfc5441d8a9db98537f300601ebc46b72fe1ca9717ac",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/4c3ef493-789e-4849-bbe5-99461bd40936",
+                "downloads": "http://10.30.139.66:11600/images/4c3ef493-789e-4849-bbe5-99461bd40936/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4cd4c393-ff1b-4a45-8da3-9bd5300f09d8",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "Signature.PNG",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/4cd4c393-ff1b-4a45-8da3-9bd5300f09d8",
+                "downloads": "http://10.30.138.234:11600/images/4cd4c393-ff1b-4a45-8da3-9bd5300f09d8/downloads"
+            },
+            "upload": {
+                "path": "4081-SignaturePNG"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4e27b52c-efed-4e50-807d-c52b322294a3",
+            "collection_id": "testingforsfh-2f034b7be3dcb5c7baf25732bc50f9771907eff9b176d91d1b422874eedb9edd",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/4e27b52c-efed-4e50-807d-c52b322294a3",
+                "downloads": "http://10.30.138.203:11600/images/4e27b52c-efed-4e50-807d-c52b322294a3/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "4f191ca5-6dfa-4cc7-9a80-cc4a2bfdc650",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "failed_import",
+            "error": "error reading key from vault",
+            "filename": "dp-upload-service-test.png",
+            "license": {},
+            "links": {
+                "self": "http://10.30.138.203:11600/images/4f191ca5-6dfa-4cc7-9a80-cc4a2bfdc650",
+                "downloads": "http://10.30.138.203:11600/images/4f191ca5-6dfa-4cc7-9a80-cc4a2bfdc650/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "537f5d55-f4ef-48b9-9561-2424f502b185",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "Coronavirus_roundup_homepage-thumbnail.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/537f5d55-f4ef-48b9-9561-2424f502b185",
+                "downloads": "http://10.201.4.83:11600/images/537f5d55-f4ef-48b9-9561-2424f502b185/downloads"
+            },
+            "upload": {
+                "path": "7342-Coronavirus_roundup_homepage-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "5416b67b-52be-4b44-803d-811f1766c402",
+            "collection_id": "a68cc335e7cccc5df36b1d8e03ff3de616d87582915e1dbb4d7625123190b3d1",
+            "state": "uploaded",
+            "filename": "tiny.png",
+            "license": {},
+            "links": {
+                "self": "http://10.201.4.210:11600/images/5416b67b-52be-4b44-803d-811f1766c402",
+                "downloads": "http://10.201.4.210:11600/images/5416b67b-52be-4b44-803d-811f1766c402/downloads"
+            },
+            "upload": {
+                "path": "578-battenburgpng"
+            },
+            "type": "pixel"
+        },
+        {
+            "id": "55664eaa-36a5-45b5-afd4-0e8243c16f1b",
+            "collection_id": "0000000homepageimagetest-9394165a1ce29f0e455e1089c1a8464d3b89b8d4b8eda48d4b64134ce958e985",
+            "state": "completed",
+            "filename": "local-statistics.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/55664eaa-36a5-45b5-afd4-0e8243c16f1b",
+                "downloads": "http://10.201.4.89:11600/images/55664eaa-36a5-45b5-afd4-0e8243c16f1b/downloads"
+            },
+            "upload": {
+                "path": "9430-local-statisticspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "55a1a017-f6b2-422f-ac57-5e305ef0888b",
+            "collection_id": "wunmistaticfiletest-957cc4c8d3bdd3c9c9151b88cb4644d7b5b2ea21b4965d8b4eec36ee8e41f20d",
+            "state": "completed",
+            "filename": "Screenshot 2024-03-27 at 10.19.53.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/55a1a017-f6b2-422f-ac57-5e305ef0888b",
+                "downloads": "http://10.30.139.19:11600/images/55a1a017-f6b2-422f-ac57-5e305ef0888b/downloads"
+            },
+            "upload": {
+                "path": "102494-Screenshot2024-03-27at101953png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "568f5134-b343-4f91-a00e-2041b3585cfd",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "trello.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/568f5134-b343-4f91-a00e-2041b3585cfd",
+                "downloads": "http://10.201.4.83:11600/images/568f5134-b343-4f91-a00e-2041b3585cfd/downloads"
+            },
+            "upload": {
+                "path": "116752-trellopng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "56a6241d-5bd4-43bd-bc0f-04a5f5fda3da",
+            "collection_id": "franteststuff-112a3091d952153173bbfa74302dee23cbe4d30a81cb142fc54d331e0be7a2a1",
+            "state": "imported",
+            "filename": "0f86cd06.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/56a6241d-5bd4-43bd-bc0f-04a5f5fda3da",
+                "downloads": "http://10.30.139.125:11600/images/56a6241d-5bd4-43bd-bc0f-04a5f5fda3da/downloads"
+            },
+            "upload": {
+                "path": "30870-0f86cd06png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "5815e04d-6100-4eb5-8d93-28a6ee1476d4",
+            "collection_id": "adp16rollback2testingmarch28-d9962a002675951d5e1cb27da8845f4df68a41cd2493c2c3b65f3cbdeddd2135",
+            "state": "imported",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/5815e04d-6100-4eb5-8d93-28a6ee1476d4",
+                "downloads": "http://10.30.139.66:11600/images/5815e04d-6100-4eb5-8d93-28a6ee1476d4/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "5b74de54-a79c-4342-acf3-5dff3ec300ed",
+            "collection_id": "jesstest-410d9e48e3dc4317e0240891690ad311b7d3443e093e5e3518a26a769a6a2222",
+            "state": "published",
+            "filename": "Jess.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/5b74de54-a79c-4342-acf3-5dff3ec300ed",
+                "downloads": "http://10.201.4.83:11600/images/5b74de54-a79c-4342-acf3-5dff3ec300ed/downloads"
+            },
+            "upload": {
+                "path": "93755-Jesspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "5be90dc2-fad9-4e96-9f39-66f77fee34e3",
+            "collection_id": "adp16test0930publishsandbox-e01acf493f0c2c7df430de41fed643ccee5205d3739541ec837bd0892096ad5a",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/5be90dc2-fad9-4e96-9f39-66f77fee34e3",
+                "downloads": "http://10.30.139.66:11600/images/5be90dc2-fad9-4e96-9f39-66f77fee34e3/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "5cb7d58e-23e3-4775-8945-5099ea4384e0",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/5cb7d58e-23e3-4775-8945-5099ea4384e0",
+                "downloads": "http://10.30.138.203:11600/images/5cb7d58e-23e3-4775-8945-5099ea4384e0/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "5ce65207-3923-41bc-869a-4dc557fb2b85",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "uploaded",
+            "filename": "plan2.png",
+            "links": {
+                "self": "http://10.30.138.122:11600/images/5ce65207-3923-41bc-869a-4dc557fb2b85",
+                "downloads": "http://10.30.138.122:11600/images/5ce65207-3923-41bc-869a-4dc557fb2b85/downloads"
+            },
+            "upload": {
+                "path": "46288-plan2png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6292abfa-2d5c-4708-8026-d93161ae09e4",
+            "collection_id": "my collection",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.196:11600/images/6292abfa-2d5c-4708-8026-d93161ae09e4",
+                "downloads": "http://10.201.4.196:11600/images/6292abfa-2d5c-4708-8026-d93161ae09e4/downloads"
+            },
+            "type": "from the ARCHIVES"
+        },
+        {
+            "id": "63ce229c-10ad-48dc-8fa9-27f58f858570",
+            "collection_id": "shantest-c8fa8ba25d3cfadd279df6463abc86da9d41f07240995e2b3fd008ecba04213c",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/63ce229c-10ad-48dc-8fa9-27f58f858570",
+                "downloads": "http://10.30.138.41:11600/images/63ce229c-10ad-48dc-8fa9-27f58f858570/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "64745480-10ca-45c5-8cb1-7313b7e5fefa",
+            "collection_id": "adp16rollback2testingmarch28-d9962a002675951d5e1cb27da8845f4df68a41cd2493c2c3b65f3cbdeddd2135",
+            "state": "imported",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/64745480-10ca-45c5-8cb1-7313b7e5fefa",
+                "downloads": "http://10.30.139.66:11600/images/64745480-10ca-45c5-8cb1-7313b7e5fefa/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "64dbdc75-9514-4b6b-ab45-4253f4a4e138",
+            "collection_id": "channiecachepurge1-eb980a456ccf7d3bb8bddfc5441d8a9db98537f300601ebc46b72fe1ca9717ac",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/64dbdc75-9514-4b6b-ab45-4253f4a4e138",
+                "downloads": "http://10.30.139.19:11600/images/64dbdc75-9514-4b6b-ab45-4253f4a4e138/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6611b891-46f6-4048-9c3d-e470a2ee6946",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "uploaded",
+            "filename": "batman.png",
+            "links": {
+                "self": "http://10.30.138.122:11600/images/6611b891-46f6-4048-9c3d-e470a2ee6946",
+                "downloads": "http://10.30.138.122:11600/images/6611b891-46f6-4048-9c3d-e470a2ee6946/downloads"
+            },
+            "upload": {
+                "path": "37641-batmanpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "673a467a-ea91-430e-85d6-ba6e796c10ae",
+            "collection_id": "testingfilestuff-91dd9ecea74a6af1818bcbf6490b0557920c0737f97d1ff510d96fc08ae4d7b5",
+            "state": "completed",
+            "filename": "Personal-inflation-calculator.png",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/673a467a-ea91-430e-85d6-ba6e796c10ae",
+                "downloads": "http://10.30.138.203:11600/images/673a467a-ea91-430e-85d6-ba6e796c10ae/downloads"
+            },
+            "upload": {
+                "path": "19171-Personal-inflation-calculatorpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6a97e708-fe34-402e-8a55-0cd9e20f943b",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/6a97e708-fe34-402e-8a55-0cd9e20f943b",
+                "downloads": "http://10.201.4.83:11600/images/6a97e708-fe34-402e-8a55-0cd9e20f943b/downloads"
+            },
+            "upload": {
+                "path": "7462-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6b750ef5-9a37-4c7b-80e0-661e660fad62",
+            "collection_id": "autocollection-fc503461d4c7260022468e9b43fc90a3a029d78b93d373db4b93c0f8e2c810d8",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/6b750ef5-9a37-4c7b-80e0-661e660fad62",
+                "downloads": "http://10.30.138.203:11600/images/6b750ef5-9a37-4c7b-80e0-661e660fad62/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6dbcd857-434b-4aff-87f2-006d307767f2",
+            "collection_id": "jesstest-9de5896a116a3dc9b955b84abb25eee68b9d1c1282db3bfbd1e9784472133703",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/6dbcd857-434b-4aff-87f2-006d307767f2",
+                "downloads": "http://10.201.4.160:11600/images/6dbcd857-434b-4aff-87f2-006d307767f2/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6eef3d03-9cbd-4778-8906-8a55bb67a31e",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "battenburg.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/6eef3d03-9cbd-4778-8906-8a55bb67a31e",
+                "downloads": "http://10.201.4.83:11600/images/6eef3d03-9cbd-4778-8906-8a55bb67a31e/downloads"
+            },
+            "upload": {
+                "path": "578-battenburgpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6f84daa0-3eea-4264-87af-18d00022cc6f",
+            "collection_id": "0000homepagetest-4a8d24a4170c651c55f07230b2f628377579349b82b41e18ea3f6b1f1df4f436",
+            "state": "completed",
+            "filename": "other-govt-statistics.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/6f84daa0-3eea-4264-87af-18d00022cc6f",
+                "downloads": "http://10.201.4.89:11600/images/6f84daa0-3eea-4264-87af-18d00022cc6f/downloads"
+            },
+            "upload": {
+                "path": "33748-other-govt-statisticspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "6fda8715-1389-4fb1-96d0-a2b817d3cc5b",
+            "collection_id": "jesstest-d5b8fec31c349489b648188635e74e8ae72949c271a973c766b212ba2521f029",
+            "state": "completed",
+            "filename": "carpool.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/6fda8715-1389-4fb1-96d0-a2b817d3cc5b",
+                "downloads": "http://10.201.4.83:11600/images/6fda8715-1389-4fb1-96d0-a2b817d3cc5b/downloads"
+            },
+            "upload": {
+                "path": "749240-carpoolpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7171e90d-85e9-4286-a322-f281d255754e",
+            "collection_id": "000jdj-a7f076cd3d9f513f265193b6e6031ec7053cc4748e777f70890048e04792ff8c",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/7171e90d-85e9-4286-a322-f281d255754e",
+                "downloads": "http://10.30.138.41:11600/images/7171e90d-85e9-4286-a322-f281d255754e/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "722220fa-fe19-44e4-bba6-452eca79f19a",
+            "collection_id": "testingnewhomepagetiletest1-9f53dcb1ce5173406fbf84c807cf74f6e6c77801f7f6dd8f90144dcc0ea5ee04",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/722220fa-fe19-44e4-bba6-452eca79f19a",
+                "downloads": "http://10.30.138.203:11600/images/722220fa-fe19-44e4-bba6-452eca79f19a/downloads"
+            },
+            "upload": {
+                "path": "15005-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "76c04d98-ac0b-4759-971f-703082070ee7",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "trello.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/76c04d98-ac0b-4759-971f-703082070ee7",
+                "downloads": "http://10.201.5.17:11600/images/76c04d98-ac0b-4759-971f-703082070ee7/downloads"
+            },
+            "upload": {
+                "path": "116752-trellopng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7815f5d1-87d3-465d-a441-88e8d0bfcc37",
+            "collection_id": "adp16rollbacktestingmarch28-e3cbebc51c57c3820d882fa3b108875eacbcab0e290a1e46c65d814ca86429dc",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/7815f5d1-87d3-465d-a441-88e8d0bfcc37",
+                "downloads": "http://10.30.139.19:11600/images/7815f5d1-87d3-465d-a441-88e8d0bfcc37/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "79494c38-66f4-47a7-a6af-9385480ff06a",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "battenburg.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/79494c38-66f4-47a7-a6af-9385480ff06a",
+                "downloads": "http://10.201.4.83:11600/images/79494c38-66f4-47a7-a6af-9385480ff06a/downloads"
+            },
+            "upload": {
+                "path": "578-battenburgpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "79dfc35e-ff63-40f9-a5a6-9f8b6db2aff8",
+            "collection_id": "jesstest-07a3a2051ea6d638e4178f2191974668b2f57ae9a1aaa950fcd29a385d0c8150",
+            "state": "completed",
+            "filename": "battenburg.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/79dfc35e-ff63-40f9-a5a6-9f8b6db2aff8",
+                "downloads": "http://10.201.4.83:11600/images/79dfc35e-ff63-40f9-a5a6-9f8b6db2aff8/downloads"
+            },
+            "upload": {
+                "path": "578-battenburgpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7a4204b7-7110-4497-8b4b-69e180d06f01",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "completed",
+            "filename": "dp-upload-service-test.png",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/7a4204b7-7110-4497-8b4b-69e180d06f01",
+                "downloads": "http://10.30.138.203:11600/images/7a4204b7-7110-4497-8b4b-69e180d06f01/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7a42eb34-a813-4a6e-96d2-1a96b3bc3564",
+            "collection_id": "jesstest-9de5896a116a3dc9b955b84abb25eee68b9d1c1282db3bfbd1e9784472133703",
+            "state": "imported",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/7a42eb34-a813-4a6e-96d2-1a96b3bc3564",
+                "downloads": "http://10.201.4.160:11600/images/7a42eb34-a813-4a6e-96d2-1a96b3bc3564/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7af4e55d-30e7-4fa0-a09d-db9c1efdae26",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/7af4e55d-30e7-4fa0-a09d-db9c1efdae26",
+                "downloads": "http://10.201.4.83:11600/images/7af4e55d-30e7-4fa0-a09d-db9c1efdae26/downloads"
+            },
+            "upload": {
+                "path": "7462-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7c7c84b4-8357-4494-9bf4-e003c2117d2f",
+            "collection_id": "jesstest-c0129bf4dce319d649edb5ce98ee65fc7a87add7e8488fbeaf0d9d383519e480",
+            "state": "imported",
+            "filename": "cow_PNG50570.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/7c7c84b4-8357-4494-9bf4-e003c2117d2f",
+                "downloads": "http://10.201.4.89:11600/images/7c7c84b4-8357-4494-9bf4-e003c2117d2f/downloads"
+            },
+            "upload": {
+                "path": "2161840-cow_PNG50570png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7eb2cf1c-f402-4d37-b5f2-7713e6d736ac",
+            "collection_id": "a68cc335e7cccc5df36b1d8e03ff3de616d87582915e1dbb4d7625123190b3d1",
+            "state": "uploaded",
+            "filename": "tiny.png",
+            "license": {},
+            "links": {
+                "self": "http://10.201.4.210:11600/images/7eb2cf1c-f402-4d37-b5f2-7713e6d736ac",
+                "downloads": "http://10.201.4.210:11600/images/7eb2cf1c-f402-4d37-b5f2-7713e6d736ac/downloads"
+            },
+            "upload": {
+                "path": "578-battenburgpng"
+            },
+            "type": "pixel"
+        },
+        {
+            "id": "7f5dd687-8f7c-4766-a77f-c5866b10ceef",
+            "collection_id": "testingforsfh-2f034b7be3dcb5c7baf25732bc50f9771907eff9b176d91d1b422874eedb9edd",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/7f5dd687-8f7c-4766-a77f-c5866b10ceef",
+                "downloads": "http://10.30.138.203:11600/images/7f5dd687-8f7c-4766-a77f-c5866b10ceef/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7fa70866-e8b9-4152-b9e5-f25a05e6621c",
+            "collection_id": "0000homepagetest-4a8d24a4170c651c55f07230b2f628377579349b82b41e18ea3f6b1f1df4f436",
+            "state": "completed",
+            "filename": "ons-centres.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/7fa70866-e8b9-4152-b9e5-f25a05e6621c",
+                "downloads": "http://10.201.4.89:11600/images/7fa70866-e8b9-4152-b9e5-f25a05e6621c/downloads"
+            },
+            "upload": {
+                "path": "10906-ons-centrespng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "7fc50c36-4076-4f8b-9764-c2b43bf543e2",
+            "collection_id": "jesstest-9de5896a116a3dc9b955b84abb25eee68b9d1c1282db3bfbd1e9784472133703",
+            "state": "imported",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/7fc50c36-4076-4f8b-9764-c2b43bf543e2",
+                "downloads": "http://10.201.4.160:11600/images/7fc50c36-4076-4f8b-9764-c2b43bf543e2/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "8151d8cb-a094-486c-b6bc-2b5c30972b51",
+            "collection_id": "wunmistaticfiletest-957cc4c8d3bdd3c9c9151b88cb4644d7b5b2ea21b4965d8b4eec36ee8e41f20d",
+            "state": "completed",
+            "filename": "dp-frontend-router flow.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/8151d8cb-a094-486c-b6bc-2b5c30972b51",
+                "downloads": "http://10.30.139.19:11600/images/8151d8cb-a094-486c-b6bc-2b5c30972b51/downloads"
+            },
+            "upload": {
+                "path": "625008-dp-frontend-routerflowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "8385f507-1ef1-4031-955b-b965ca94264e",
+            "collection_id": "adp16test0930publishsandbox-e01acf493f0c2c7df430de41fed643ccee5205d3739541ec837bd0892096ad5a",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/8385f507-1ef1-4031-955b-b965ca94264e",
+                "downloads": "http://10.30.139.66:11600/images/8385f507-1ef1-4031-955b-b965ca94264e/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "850ed0f3-a38f-4e16-adda-9787980d9d25",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "download.png",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/850ed0f3-a38f-4e16-adda-9787980d9d25",
+                "downloads": "http://10.30.138.234:11600/images/850ed0f3-a38f-4e16-adda-9787980d9d25/downloads"
+            },
+            "upload": {
+                "path": "7326-downloadpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "89d69249-b5ae-44fa-b3fb-b39eb73324a6",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "Coronavirus_roundup_homepage-thumbnail.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/89d69249-b5ae-44fa-b3fb-b39eb73324a6",
+                "downloads": "http://10.201.4.83:11600/images/89d69249-b5ae-44fa-b3fb-b39eb73324a6/downloads"
+            },
+            "upload": {
+                "path": "7342-Coronavirus_roundup_homepage-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "8a094221-25c2-43bd-aa59-ed01f3a78c37",
+            "collection_id": "adp16rollback2testingmarch28-d9962a002675951d5e1cb27da8845f4df68a41cd2493c2c3b65f3cbdeddd2135",
+            "state": "imported",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/8a094221-25c2-43bd-aa59-ed01f3a78c37",
+                "downloads": "http://10.30.139.66:11600/images/8a094221-25c2-43bd-aa59-ed01f3a78c37/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "8ed1f71b-d5ef-48ed-90c6-eee0ab2b4c85",
+            "collection_id": "jesstest-9de5896a116a3dc9b955b84abb25eee68b9d1c1282db3bfbd1e9784472133703",
+            "state": "imported",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/8ed1f71b-d5ef-48ed-90c6-eee0ab2b4c85",
+                "downloads": "http://10.201.4.6:11600/images/8ed1f71b-d5ef-48ed-90c6-eee0ab2b4c85/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "92b67bbb-e44f-4438-856d-170c59c26060",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/92b67bbb-e44f-4438-856d-170c59c26060",
+                "downloads": "http://10.201.4.160:11600/images/92b67bbb-e44f-4438-856d-170c59c26060/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "9313640a-e0a1-414b-8f07-db09b6b5cb93",
+            "collection_id": "frantestinghomepageagain-f1d2ffbe56dce7b511b4456c88aaf6ec5def57350706d178ee07bc3370a13d9d",
+            "state": "completed",
+            "filename": "bcd9b1cd.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/9313640a-e0a1-414b-8f07-db09b6b5cb93",
+                "downloads": "http://10.30.139.19:11600/images/9313640a-e0a1-414b-8f07-db09b6b5cb93/downloads"
+            },
+            "upload": {
+                "path": "30870-bcd9b1cdpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "949ff092-c7e8-4390-87cb-b58991a9d196",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/949ff092-c7e8-4390-87cb-b58991a9d196",
+                "downloads": "http://10.201.4.160:11600/images/949ff092-c7e8-4390-87cb-b58991a9d196/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "94fc1ed5-d3ac-43a3-ae05-28aaee0dfa65",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "covid-infection-survey@2x.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/94fc1ed5-d3ac-43a3-ae05-28aaee0dfa65",
+                "downloads": "http://10.201.4.83:11600/images/94fc1ed5-d3ac-43a3-ae05-28aaee0dfa65/downloads"
+            },
+            "upload": {
+                "path": "18403-covid-infection-survey2xpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "9507972f-7072-41d5-9d97-ed02aa4482e7",
+            "collection_id": "564-59c384cb273fdc2cf75aaa965f655f363372a6fe5e00eef01913378f69114b96",
+            "state": "completed",
+            "filename": "Whippet1.png",
+            "links": {
+                "self": "http://10.201.4.10:11600/images/9507972f-7072-41d5-9d97-ed02aa4482e7",
+                "downloads": "http://10.201.4.10:11600/images/9507972f-7072-41d5-9d97-ed02aa4482e7/downloads"
+            },
+            "upload": {
+                "path": "73831-Whippet1png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "96ec848d-2c2e-4b7d-ba28-fd45665c126c",
+            "collection_id": "00000jdj-e3745cbc534d4f4d8c30fa7e03034a95660639a312c334882704ea6d1ab6ee7e",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.85:11600/images/96ec848d-2c2e-4b7d-ba28-fd45665c126c",
+                "downloads": "http://10.30.139.85:11600/images/96ec848d-2c2e-4b7d-ba28-fd45665c126c/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "9bfa7beb-b71b-4175-b525-2837f81a6401",
+            "collection_id": "jesstest-11d18082ea8a76781932a07e424000e16c622a89fb1a71b72257b1674b7f5a88",
+            "state": "completed",
+            "filename": "coronavirus-faster-indicators@2x.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/9bfa7beb-b71b-4175-b525-2837f81a6401",
+                "downloads": "http://10.201.4.83:11600/images/9bfa7beb-b71b-4175-b525-2837f81a6401/downloads"
+            },
+            "upload": {
+                "path": "12523-coronavirus-faster-indicators2xpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "9d1e8e8a-fc41-4c25-9155-18a460e446a3",
+            "collection_id": "jesstest2-cd56b56621fae4a6a653128a54124de62afb11a1949cc461b84531e5b27ff0f2",
+            "state": "completed",
+            "filename": "sheen.png",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/9d1e8e8a-fc41-4c25-9155-18a460e446a3",
+                "downloads": "http://10.30.138.234:11600/images/9d1e8e8a-fc41-4c25-9155-18a460e446a3/downloads"
+            },
+            "upload": {
+                "path": "468924-sheenpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "a14b7824-9156-4b07-ba5c-fba9198a381f",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/a14b7824-9156-4b07-ba5c-fba9198a381f",
+                "downloads": "http://10.201.4.6:11600/images/a14b7824-9156-4b07-ba5c-fba9198a381f/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "a18a7f32-3cd5-4f3f-adeb-c920d706aeb9",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "cow_PNG50570.png",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/a18a7f32-3cd5-4f3f-adeb-c920d706aeb9",
+                "downloads": "http://10.30.138.234:11600/images/a18a7f32-3cd5-4f3f-adeb-c920d706aeb9/downloads"
+            },
+            "upload": {
+                "path": "2161840-cow_PNG50570png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "a2951447-3d42-4b18-95db-e0691cb484b7",
+            "collection_id": "jesstest-c0129bf4dce319d649edb5ce98ee65fc7a87add7e8488fbeaf0d9d383519e480",
+            "state": "imported",
+            "filename": "cow_PNG50570.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/a2951447-3d42-4b18-95db-e0691cb484b7",
+                "downloads": "http://10.201.4.89:11600/images/a2951447-3d42-4b18-95db-e0691cb484b7/downloads"
+            },
+            "upload": {
+                "path": "2161840-cow_PNG50570png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "a41cda61-5139-4697-b8b9-f318822da23d",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "trello.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/a41cda61-5139-4697-b8b9-f318822da23d",
+                "downloads": "http://10.201.4.83:11600/images/a41cda61-5139-4697-b8b9-f318822da23d/downloads"
+            },
+            "upload": {
+                "path": "116752-trellopng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "a670fe4d-4ce2-45f6-87e0-5b0130070a04",
+            "collection_id": "paulsandboxtestmarch2023-b3f8a3b851addae7abb723e88444add5c212cc1e0c32d67c3093d2dde805a239",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/a670fe4d-4ce2-45f6-87e0-5b0130070a04",
+                "downloads": "http://10.30.138.234:11600/images/a670fe4d-4ce2-45f6-87e0-5b0130070a04/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "a8ba78ef-1c4d-42fa-9c42-05d70afadb73",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "image.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/a8ba78ef-1c4d-42fa-9c42-05d70afadb73",
+                "downloads": "http://10.201.5.17:11600/images/a8ba78ef-1c4d-42fa-9c42-05d70afadb73/downloads"
+            },
+            "upload": {
+                "path": "324830-imagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "aa3b5768-ff26-45cb-9aa1-9268aaae0743",
+            "collection_id": "adp16test0930publishsandbox-e01acf493f0c2c7df430de41fed643ccee5205d3739541ec837bd0892096ad5a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/aa3b5768-ff26-45cb-9aa1-9268aaae0743",
+                "downloads": "http://10.30.139.66:11600/images/aa3b5768-ff26-45cb-9aa1-9268aaae0743/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "aad246c5-9e59-4f84-b615-8bf4d5a39863",
+            "collection_id": "fake",
+            "state": "completed",
+            "filename": "ons-blogs@2x",
+            "license": {
+                "title": "Open Government Licence v3.0",
+                "href": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "links": {
+                "self": "http://localhost:24700/images/aad246c5-9e59-4f84-b615-8bf4d5a39863",
+                "downloads": "http://localhost:24700/images/aad246c5-9e59-4f84-b615-8bf4d5a39863/downloads"
+            },
+            "upload": {
+                "path": "images/fake/fake.png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "acf2bd4e-7afa-4fe6-b255-2e89e6977897",
+            "collection_id": "justintest-e2499a2dec2f9944d50f1e606ed1cb17626b415c7da78cb2a6796888917909bc",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/acf2bd4e-7afa-4fe6-b255-2e89e6977897",
+                "downloads": "http://10.201.4.160:11600/images/acf2bd4e-7afa-4fe6-b255-2e89e6977897/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ad6d9f7f-37f7-4927-ada4-73bf0c499ac3",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "battenburg.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/ad6d9f7f-37f7-4927-ada4-73bf0c499ac3",
+                "downloads": "http://10.201.4.83:11600/images/ad6d9f7f-37f7-4927-ada4-73bf0c499ac3/downloads"
+            },
+            "upload": {
+                "path": "578-battenburgpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ae194858-c954-44b6-b32b-b6591feb7b1d",
+            "collection_id": "channietest-d1a873af8fbd04bbc6a6c0dece4e6a2765aea70a0f2a89c5f7a0d61619cadd87",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/ae194858-c954-44b6-b32b-b6591feb7b1d",
+                "downloads": "http://10.30.139.66:11600/images/ae194858-c954-44b6-b32b-b6591feb7b1d/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ae575c65-6797-4c8a-944f-c1a346aa9a42",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "image (1).png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/ae575c65-6797-4c8a-944f-c1a346aa9a42",
+                "downloads": "http://10.201.4.83:11600/images/ae575c65-6797-4c8a-944f-c1a346aa9a42/downloads"
+            },
+            "upload": {
+                "path": "16052-image1png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ae6840be-9e1f-473c-920b-b13d9a59b19f",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.122:11600/images/ae6840be-9e1f-473c-920b-b13d9a59b19f",
+                "downloads": "http://10.30.138.122:11600/images/ae6840be-9e1f-473c-920b-b13d9a59b19f/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b085fec3-bba6-40fc-9763-a2b36f98e538",
+            "collection_id": "fake",
+            "state": "completed",
+            "filename": "coronavirus-faster-indicators@2x",
+            "license": {
+                "title": "Open Government Licence v3.0",
+                "href": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "links": {
+                "self": "http://localhost:24700/images/b085fec3-bba6-40fc-9763-a2b36f98e538",
+                "downloads": "http://localhost:24700/images/b085fec3-bba6-40fc-9763-a2b36f98e538/downloads"
+            },
+            "upload": {
+                "path": "images/fake/fake.png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b08b8d92-a1a1-4850-8517-69f4565e8ae5",
+            "collection_id": "jesstest-6a45a80379300f99cbc5ce0c17a1fc00b6314848d006903940741bf660899afb",
+            "state": "completed",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/b08b8d92-a1a1-4850-8517-69f4565e8ae5",
+                "downloads": "http://10.201.4.83:11600/images/b08b8d92-a1a1-4850-8517-69f4565e8ae5/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b4ab3439-be93-4254-88f7-a4ad29040117",
+            "collection_id": "wunmistaticfiletest-957cc4c8d3bdd3c9c9151b88cb4644d7b5b2ea21b4965d8b4eec36ee8e41f20d",
+            "state": "completed",
+            "filename": "Screenshot 2024-03-21 at 16.10.47.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/b4ab3439-be93-4254-88f7-a4ad29040117",
+                "downloads": "http://10.30.139.19:11600/images/b4ab3439-be93-4254-88f7-a4ad29040117/downloads"
+            },
+            "upload": {
+                "path": "232928-Screenshot2024-03-21at161047png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b5b4d9c4-0e4a-4414-a7fc-399e12fd5c05",
+            "collection_id": "0000homepagetest-296d89ccc0326575543a2ed3ea5384852652ace6aae9fe82198e6c7502b76a60",
+            "state": "imported",
+            "filename": "Placeholder_view_vector.svg",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/b5b4d9c4-0e4a-4414-a7fc-399e12fd5c05",
+                "downloads": "http://10.201.4.89:11600/images/b5b4d9c4-0e4a-4414-a7fc-399e12fd5c05/downloads"
+            },
+            "upload": {
+                "path": "3297-Placeholder_view_vectorsvg"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b7480630-58b9-4531-a0de-04f24691d97c",
+            "collection_id": "adhovgllwebchat-c7ca3b2cb6d17c35c9387d5b486b517c1f40fc01ce57be172bd6f8487dc4f338",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/b7480630-58b9-4531-a0de-04f24691d97c",
+                "downloads": "http://10.201.4.6:11600/images/b7480630-58b9-4531-a0de-04f24691d97c/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b8853d16-6435-4c94-a6c3-cbdda1b948d0",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/b8853d16-6435-4c94-a6c3-cbdda1b948d0",
+                "downloads": "http://10.201.4.83:11600/images/b8853d16-6435-4c94-a6c3-cbdda1b948d0/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "b933d081-682e-4660-9bd3-9e55808bc94f",
+            "collection_id": "adhovgllwebchat-c7ca3b2cb6d17c35c9387d5b486b517c1f40fc01ce57be172bd6f8487dc4f338",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/b933d081-682e-4660-9bd3-9e55808bc94f",
+                "downloads": "http://10.201.4.6:11600/images/b933d081-682e-4660-9bd3-9e55808bc94f/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "bc5a3fc4-99d7-482d-9d54-67fc9560143d",
+            "collection_id": "autocollection01-301e679068f4d3371810a1ef47f14cf58cf06b437aa19ee8914f39f503e7e66a",
+            "state": "failed_import",
+            "error": "error reading key from vault",
+            "filename": "Screenshot 2024-02-08 at 11.58.51.png",
+            "license": {},
+            "links": {
+                "self": "http://10.30.138.203:11600/images/bc5a3fc4-99d7-482d-9d54-67fc9560143d",
+                "downloads": "http://10.30.138.203:11600/images/bc5a3fc4-99d7-482d-9d54-67fc9560143d/downloads"
+            },
+            "upload": {
+                "path": "620198-Screenshot2024-02-08at115851png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "bd9bbe39-56d9-4441-8c25-6388d3819af8",
+            "collection_id": "huwimageuploadtesting-3d84baa02e6bbd77b740260fc0db9c46f15a3b24ffb07aaa3cbb39fcf3759864",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/bd9bbe39-56d9-4441-8c25-6388d3819af8",
+                "downloads": "http://10.30.139.66:11600/images/bd9bbe39-56d9-4441-8c25-6388d3819af8/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c125f6cc-6988-410c-94da-b862e67a8f6c",
+            "collection_id": "jesstest-ca79f82fac4c3215fba48bb746f1ab85bc00aa740d601a01cf1bf552f3010aa0",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/c125f6cc-6988-410c-94da-b862e67a8f6c",
+                "downloads": "http://10.201.4.160:11600/images/c125f6cc-6988-410c-94da-b862e67a8f6c/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c1659be5-720d-41f4-b5d6-91cedebcc30e",
+            "collection_id": "justintest-6f2d3ed73db1fbaf290cfc6fb93f88a38af4c61689503744675578776149af10",
+            "state": "completed",
+            "filename": "mountains.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/c1659be5-720d-41f4-b5d6-91cedebcc30e",
+                "downloads": "http://10.201.4.89:11600/images/c1659be5-720d-41f4-b5d6-91cedebcc30e/downloads"
+            },
+            "upload": {
+                "path": "520620-mountainspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c24c86f0-5e40-4b16-94bc-b9bdb56b2ae6",
+            "collection_id": "adhocanna12571-654631d227f721073451f0b95f6f93abb8f04116895add0a4f533196b968e1a0",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.101:11600/images/c24c86f0-5e40-4b16-94bc-b9bdb56b2ae6",
+                "downloads": "http://10.201.4.101:11600/images/c24c86f0-5e40-4b16-94bc-b9bdb56b2ae6/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c2983342-7a5e-4d03-8524-9a385052c21a",
+            "collection_id": "jesstest-87a9c028ebda158fcc57cc8080560ea5e5f64f8a8905a723124c0e1abcbd3d94",
+            "state": "completed",
+            "filename": "carpool.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/c2983342-7a5e-4d03-8524-9a385052c21a",
+                "downloads": "http://10.201.5.17:11600/images/c2983342-7a5e-4d03-8524-9a385052c21a/downloads"
+            },
+            "upload": {
+                "path": "749240-carpoolpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c3743e51-2978-493b-ae10-4aed7d5ea42d",
+            "collection_id": "channietest-8c930b51787773ff416581e15b67af9052c263d1d03a869f5fc579d461929717",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/c3743e51-2978-493b-ae10-4aed7d5ea42d",
+                "downloads": "http://10.30.139.19:11600/images/c3743e51-2978-493b-ae10-4aed7d5ea42d/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c48e4772-0d80-493c-93e6-df36eb8d032f",
+            "collection_id": "jesstest-ca79f82fac4c3215fba48bb746f1ab85bc00aa740d601a01cf1bf552f3010aa0",
+            "state": "completed",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/c48e4772-0d80-493c-93e6-df36eb8d032f",
+                "downloads": "http://10.201.4.160:11600/images/c48e4772-0d80-493c-93e6-df36eb8d032f/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c5ddcc90-0039-40b1-aab0-b590f0ee6596",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "uploaded",
+            "filename": "batman.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/c5ddcc90-0039-40b1-aab0-b590f0ee6596",
+                "downloads": "http://10.30.139.125:11600/images/c5ddcc90-0039-40b1-aab0-b590f0ee6596/downloads"
+            },
+            "upload": {
+                "path": "37641-batmanpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c816296d-b1a1-44c0-90d8-a1b6c36527a9",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "completed",
+            "filename": "dp-upload-service-test.png",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/c816296d-b1a1-44c0-90d8-a1b6c36527a9",
+                "downloads": "http://10.30.138.203:11600/images/c816296d-b1a1-44c0-90d8-a1b6c36527a9/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "c9d27ae9-5747-47e8-871e-664842df3602",
+            "collection_id": "dpuploadservicetestcollection-f0636ef92b7a2f2de8b2b033caecada6130bfb478e01836169c5b2049a29b7e2",
+            "state": "completed",
+            "filename": "dp-upload-service-test.png",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/c9d27ae9-5747-47e8-871e-664842df3602",
+                "downloads": "http://10.30.139.125:11600/images/c9d27ae9-5747-47e8-871e-664842df3602/downloads"
+            },
+            "upload": {
+                "path": "8836-dp-upload-service-testpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "cb435b11-9acb-42d2-b149-e58b15a4f04f",
+            "collection_id": "justintest-a5683bb390a29fa191fef9c7bbf924140bcc9ca5fa62542ee9817e5fdafbfe65",
+            "state": "completed",
+            "filename": "batman.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/cb435b11-9acb-42d2-b149-e58b15a4f04f",
+                "downloads": "http://10.201.4.89:11600/images/cb435b11-9acb-42d2-b149-e58b15a4f04f/downloads"
+            },
+            "upload": {
+                "path": "576901-batmanpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "cc6cc426-750a-48b5-ae27-deb612505e2c",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/cc6cc426-750a-48b5-ae27-deb612505e2c",
+                "downloads": "http://10.201.5.17:11600/images/cc6cc426-750a-48b5-ae27-deb612505e2c/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "cd7b03b8-d58b-495d-b82d-1ea500143d44",
+            "collection_id": "demoeleanor-0b8d3c9fa01799af3769544e32ad7b327ea4c204cd5079dab992cfa0d7c40502",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/cd7b03b8-d58b-495d-b82d-1ea500143d44",
+                "downloads": "http://10.201.4.89:11600/images/cd7b03b8-d58b-495d-b82d-1ea500143d44/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d0e6e8d9-bd72-44ae-94e2-4dacf8ec556d",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/d0e6e8d9-bd72-44ae-94e2-4dacf8ec556d",
+                "downloads": "http://10.201.4.83:11600/images/d0e6e8d9-bd72-44ae-94e2-4dacf8ec556d/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d1d114ac-2e6e-4088-bf73-eb36fd253281",
+            "collection_id": "testgl-95aa92ccfec3eefed3b7cc72de59db62160ea1efff8c791c7866ad7ce9fdb450",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.6:11600/images/d1d114ac-2e6e-4088-bf73-eb36fd253281",
+                "downloads": "http://10.201.4.6:11600/images/d1d114ac-2e6e-4088-bf73-eb36fd253281/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d2784d1a-0cdc-4cbb-a02b-0ed1748fec76",
+            "collection_id": "franlasttestadp16-5bae77060e5bc9659b4b01c7fa53aafe91275a8ceccdfd919d1113f39909b1dd",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/d2784d1a-0cdc-4cbb-a02b-0ed1748fec76",
+                "downloads": "http://10.30.139.19:11600/images/d2784d1a-0cdc-4cbb-a02b-0ed1748fec76/downloads"
+            },
+            "upload": {
+                "path": "15005-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d304d228-5a8f-4542-84b1-e0392377937b",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "Bsodwindows10.png",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/d304d228-5a8f-4542-84b1-e0392377937b",
+                "downloads": "http://10.30.138.41:11600/images/d304d228-5a8f-4542-84b1-e0392377937b/downloads"
+            },
+            "upload": {
+                "path": "38675-Bsodwindows10png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d3c2c57b-16c0-4082-905e-6e143f93831a",
+            "collection_id": "huwimageuploadtesting-3d84baa02e6bbd77b740260fc0db9c46f15a3b24ffb07aaa3cbb39fcf3759864",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/d3c2c57b-16c0-4082-905e-6e143f93831a",
+                "downloads": "http://10.30.139.66:11600/images/d3c2c57b-16c0-4082-905e-6e143f93831a/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d3ea5b5e-a6f1-4a44-93c2-4ba15d315ed4",
+            "collection_id": "fake",
+            "state": "completed",
+            "filename": "coronavirus-roundup@2x",
+            "license": {
+                "title": "Open Government Licence v3.0",
+                "href": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+            },
+            "links": {
+                "self": "http://localhost:24700/images/d3ea5b5e-a6f1-4a44-93c2-4ba15d315ed4",
+                "downloads": "http://localhost:24700/images/d3ea5b5e-a6f1-4a44-93c2-4ba15d315ed4/downloads"
+            },
+            "upload": {
+                "path": "images/fake/fake.png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d8b067a7-f535-464f-95d7-367ec3941474",
+            "collection_id": "frantesting-ae577639e97dd6780508a06c6b4061053125c644eeb5cc4b86bc7a7e73587e74",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/d8b067a7-f535-464f-95d7-367ec3941474",
+                "downloads": "http://10.30.139.125:11600/images/d8b067a7-f535-464f-95d7-367ec3941474/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "d9ec9cae-087c-47c6-959a-1c51e7db165a",
+            "collection_id": "0000homepagetest-4a8d24a4170c651c55f07230b2f628377579349b82b41e18ea3f6b1f1df4f436",
+            "state": "completed",
+            "filename": "data-strategy.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/d9ec9cae-087c-47c6-959a-1c51e7db165a",
+                "downloads": "http://10.201.4.89:11600/images/d9ec9cae-087c-47c6-959a-1c51e7db165a/downloads"
+            },
+            "upload": {
+                "path": "15885-data-strategypng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "da28eaaa-537d-4ec8-9d82-a4de8121b2df",
+            "collection_id": "jda-60f1f6a2591f799d8bb21be96aeecf8dfad0a0aca8586c6b857911ea1883e76e",
+            "state": "completed",
+            "filename": "trello_facepalm.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/da28eaaa-537d-4ec8-9d82-a4de8121b2df",
+                "downloads": "http://10.201.4.83:11600/images/da28eaaa-537d-4ec8-9d82-a4de8121b2df/downloads"
+            },
+            "upload": {
+                "path": "52038-trello_facepalmpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "dc290e53-4dce-4b53-bdd7-64c7f142b0e4",
+            "collection_id": "00000test3-94653d855e38613990c3e14cff180720fbc5a5bd954922bed1b2b544c8d76647",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/dc290e53-4dce-4b53-bdd7-64c7f142b0e4",
+                "downloads": "http://10.201.4.160:11600/images/dc290e53-4dce-4b53-bdd7-64c7f142b0e4/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "dce6f89a-02e8-4c53-a5c0-876cec71d30a",
+            "collection_id": "testinghomepage1234-3b7d0fe26f560e8f5dfeb13b3e17ddd5e2dfa9a0b4360c26ca012b65ac537d76",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/dce6f89a-02e8-4c53-a5c0-876cec71d30a",
+                "downloads": "http://10.30.138.203:11600/images/dce6f89a-02e8-4c53-a5c0-876cec71d30a/downloads"
+            },
+            "upload": {
+                "path": "15005-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "dd9407df-eff7-4931-aaa7-2f8693cb8a4a",
+            "collection_id": "greg2-11ee3da93284a1fe2f8f8dffb6f229ec303672b349d4bec9d90560d1ada596c8",
+            "state": "completed",
+            "filename": "plan1.png",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/dd9407df-eff7-4931-aaa7-2f8693cb8a4a",
+                "downloads": "http://10.30.138.41:11600/images/dd9407df-eff7-4931-aaa7-2f8693cb8a4a/downloads"
+            },
+            "upload": {
+                "path": "48502-plan1png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "de7191c6-f64c-40b1-b615-58ce9fd66b29",
+            "collection_id": "jesstestpriv-c01889ae1df0e410e38c989ddd781ed7cfa1f48bea0c7581b148dc5be044dc4b",
+            "state": "completed",
+            "filename": "kapow.png",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/de7191c6-f64c-40b1-b615-58ce9fd66b29",
+                "downloads": "http://10.201.5.17:11600/images/de7191c6-f64c-40b1-b615-58ce9fd66b29/downloads"
+            },
+            "upload": {
+                "path": "76937-kapowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "df345a63-9666-41d7-b3a1-ed896a9d22fa",
+            "collection_id": "shannon-da84ef143730b4a6f16ae10cd77b72d8e9ae88fd075bb27a367eb391dc0bd819",
+            "state": "imported",
+            "filename": "Capture - Copy.jpg",
+            "links": {
+                "self": "http://10.30.138.41:11600/images/df345a63-9666-41d7-b3a1-ed896a9d22fa",
+                "downloads": "http://10.30.138.41:11600/images/df345a63-9666-41d7-b3a1-ed896a9d22fa/downloads"
+            },
+            "upload": {
+                "path": "132687-Capture-Copyjpg"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "e07a395d-ae77-402f-a585-deaf689fba46",
+            "collection_id": "uploadtest-e13ffb793022cbfc7ab46d997dc67158a4f491e041989246c1e74d6c5928debe",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.122:11600/images/e07a395d-ae77-402f-a585-deaf689fba46",
+                "downloads": "http://10.30.138.122:11600/images/e07a395d-ae77-402f-a585-deaf689fba46/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "e30389cf-fd68-4b8d-b1e8-f4d678690cde",
+            "collection_id": "0000homepagetest-4a8d24a4170c651c55f07230b2f628377579349b82b41e18ea3f6b1f1df4f436",
+            "state": "completed",
+            "filename": "local-statistics.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/e30389cf-fd68-4b8d-b1e8-f4d678690cde",
+                "downloads": "http://10.201.4.160:11600/images/e30389cf-fd68-4b8d-b1e8-f4d678690cde/downloads"
+            },
+            "upload": {
+                "path": "9430-local-statisticspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "e354e92b-d991-4e5a-8873-0b9ca9915226",
+            "collection_id": "nathantest2-a88b13e6d6c7106534564b92aa34bebd14e8bff63aa6849894e73ac5ccfe9b79",
+            "state": "completed",
+            "filename": "captain-marvel.png",
+            "links": {
+                "self": "http://10.201.4.101:11600/images/e354e92b-d991-4e5a-8873-0b9ca9915226",
+                "downloads": "http://10.201.4.101:11600/images/e354e92b-d991-4e5a-8873-0b9ca9915226/downloads"
+            },
+            "upload": {
+                "path": "801654-captain-marvelpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "e6032b4e-0906-4189-9ea6-eb653d611fc1",
+            "collection_id": "000000cmdtest-be1f38aaff9686d902b50180959859ab9cd6f15f3c141dff9661a0547af0e1fd",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/e6032b4e-0906-4189-9ea6-eb653d611fc1",
+                "downloads": "http://10.201.5.17:11600/images/e6032b4e-0906-4189-9ea6-eb653d611fc1/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "e72ed278-64c8-428c-9e3a-05197062dc28",
+            "collection_id": "autocollection01-301e679068f4d3371810a1ef47f14cf58cf06b437aa19ee8914f39f503e7e66a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.125:11600/images/e72ed278-64c8-428c-9e3a-05197062dc28",
+                "downloads": "http://10.30.139.125:11600/images/e72ed278-64c8-428c-9e3a-05197062dc28/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "e83e4fc6-716f-4996-89b2-8dbc5d8e2d3e",
+            "collection_id": "justintest-1ec2101c9113c3e4030c6cdb212f40ee353cde6a434572e8653283dd78e8d8a5",
+            "state": "completed",
+            "filename": "batman.png",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/e83e4fc6-716f-4996-89b2-8dbc5d8e2d3e",
+                "downloads": "http://10.201.4.160:11600/images/e83e4fc6-716f-4996-89b2-8dbc5d8e2d3e/downloads"
+            },
+            "upload": {
+                "path": "576901-batmanpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ea4c4dad-ce50-4e02-9be3-8a2f3d948353",
+            "collection_id": "anotherencryptfiletest-7351556bebe5cb11f4b2cdbd9a158d4aa3cfd81bd7cc0225ea05da69a5380252",
+            "state": "completed",
+            "filename": "local-statistics.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/ea4c4dad-ce50-4e02-9be3-8a2f3d948353",
+                "downloads": "http://10.30.139.66:11600/images/ea4c4dad-ce50-4e02-9be3-8a2f3d948353/downloads"
+            },
+            "upload": {
+                "path": "2710-local-statisticspng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "eacf8215-42e3-4fca-b446-3acaf6ddde16",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "completed",
+            "filename": "trello_facepalm.png",
+            "links": {
+                "self": "http://10.201.4.83:11600/images/eacf8215-42e3-4fca-b446-3acaf6ddde16",
+                "downloads": "http://10.201.4.83:11600/images/eacf8215-42e3-4fca-b446-3acaf6ddde16/downloads"
+            },
+            "upload": {
+                "path": "52038-trello_facepalmpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ed25a4ef-31d0-4f46-88f3-ec848f6f06ef",
+            "collection_id": "adp16test0930publishsandbox-e01acf493f0c2c7df430de41fed643ccee5205d3739541ec837bd0892096ad5a",
+            "state": "completed",
+            "filename": "The-ONS-Podcast-thumbnail.png",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/ed25a4ef-31d0-4f46-88f3-ec848f6f06ef",
+                "downloads": "http://10.30.139.66:11600/images/ed25a4ef-31d0-4f46-88f3-ec848f6f06ef/downloads"
+            },
+            "upload": {
+                "path": "14968-The-ONS-Podcast-thumbnailpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "f3b3a535-8d70-4ec8-a8e6-e113c7d2a3ac",
+            "collection_id": "aryantest-83dff547a030e6c29282d3e3609ee1aa6c2a5143d5833a2b479e9a65704e01b0",
+            "state": "imported",
+            "filename": "test image.png",
+            "links": {
+                "self": "http://10.30.138.141:11600/images/f3b3a535-8d70-4ec8-a8e6-e113c7d2a3ac",
+                "downloads": "http://10.30.138.141:11600/images/f3b3a535-8d70-4ec8-a8e6-e113c7d2a3ac/downloads"
+            },
+            "upload": {
+                "path": "10775-testimagepng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "f72dba75-d0cc-4688-b994-4aef3bd4120d",
+            "collection_id": "bethantest-20721cac50738f3d33d376b17fd4e33c6e48af910ad6ef20ec5328a2482757e5",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/f72dba75-d0cc-4688-b994-4aef3bd4120d",
+                "downloads": "http://10.201.4.89:11600/images/f72dba75-d0cc-4688-b994-4aef3bd4120d/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "f79af323-80b3-44b9-a88d-f50c4dcef8dd",
+            "collection_id": "adp16rollback2testingmarch28-d9962a002675951d5e1cb27da8845f4df68a41cd2493c2c3b65f3cbdeddd2135",
+            "state": "imported",
+            "filename": "static files architecture diagram.png",
+            "links": {
+                "self": "http://10.30.139.19:11600/images/f79af323-80b3-44b9-a88d-f50c4dcef8dd",
+                "downloads": "http://10.30.139.19:11600/images/f79af323-80b3-44b9-a88d-f50c4dcef8dd/downloads"
+            },
+            "upload": {
+                "path": "295935-staticfilesarchitecturediagrampng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "f7cde7e7-8edb-4119-a04e-ab9bc8f7edaf",
+            "collection_id": "justintest-312c237b8fc699bd9692cd49520601204af561853b9e5affd57bd747b7ad39b3",
+            "state": "completed",
+            "filename": "batman.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/f7cde7e7-8edb-4119-a04e-ab9bc8f7edaf",
+                "downloads": "http://10.201.4.89:11600/images/f7cde7e7-8edb-4119-a04e-ab9bc8f7edaf/downloads"
+            },
+            "upload": {
+                "path": "576901-batmanpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "f7f866d6-9d6f-41ce-beb7-b1c99f866222",
+            "collection_id": "frantesthomepage-cc4ca099b177d821c87db747a40465c84750570dc594b4b2425c34c130d647f7",
+            "state": "completed",
+            "filename": "b5c06503.png",
+            "links": {
+                "self": "http://10.30.138.141:11600/images/f7f866d6-9d6f-41ce-beb7-b1c99f866222",
+                "downloads": "http://10.30.138.141:11600/images/f7f866d6-9d6f-41ce-beb7-b1c99f866222/downloads"
+            },
+            "upload": {
+                "path": "30870-b5c06503png"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "f87cc310-5a91-43a1-ba51-5111b2428d29",
+            "collection_id": "testaroundons-9a2ea4791fdaecd0ba17451b4fa9476c8867beb49359ee9438920f49b02b0da1",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.160:11600/images/f87cc310-5a91-43a1-ba51-5111b2428d29",
+                "downloads": "http://10.201.4.160:11600/images/f87cc310-5a91-43a1-ba51-5111b2428d29/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "fafb8bfb-25c0-4024-9321-9c9449f10e69",
+            "collection_id": "channietest-617374fdc3e77432c22fa11b9bc4898671f4f13b078daa4269d165475d3eb195",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.139.66:11600/images/fafb8bfb-25c0-4024-9321-9c9449f10e69",
+                "downloads": "http://10.30.139.66:11600/images/fafb8bfb-25c0-4024-9321-9c9449f10e69/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "fb1261af-3d25-4066-9a80-05652665dff6",
+            "collection_id": "testgl2-0106bfd8d60f50bfeb2670163ab25d4f8179ba8550259b1c9bfadfd9c1de0637",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.5.17:11600/images/fb1261af-3d25-4066-9a80-05652665dff6",
+                "downloads": "http://10.201.5.17:11600/images/fb1261af-3d25-4066-9a80-05652665dff6/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "fb5a629d-791d-4453-a52b-4bf7abbdf2f6",
+            "collection_id": "autocollection01-301e679068f4d3371810a1ef47f14cf58cf06b437aa19ee8914f39f503e7e66a",
+            "state": "created",
+            "links": {
+                "self": "http://10.30.138.203:11600/images/fb5a629d-791d-4453-a52b-4bf7abbdf2f6",
+                "downloads": "http://10.30.138.203:11600/images/fb5a629d-791d-4453-a52b-4bf7abbdf2f6/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "fbdfb858-4e76-4e30-8760-0908aa37dd33",
+            "collection_id": "uniquejon-73bbbd38c24231a1fba9a2aab7603fd46de338ffcbce441c44245ad52f88f873",
+            "state": "imported",
+            "filename": "cow.png",
+            "links": {
+                "self": "http://10.30.138.234:11600/images/fbdfb858-4e76-4e30-8760-0908aa37dd33",
+                "downloads": "http://10.30.138.234:11600/images/fbdfb858-4e76-4e30-8760-0908aa37dd33/downloads"
+            },
+            "upload": {
+                "path": "2005356-cowpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "fddef919-b831-4081-8872-1984a3bb5438",
+            "collection_id": "testgl-95aa92ccfec3eefed3b7cc72de59db62160ea1efff8c791c7866ad7ce9fdb450",
+            "state": "created",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/fddef919-b831-4081-8872-1984a3bb5438",
+                "downloads": "http://10.201.4.89:11600/images/fddef919-b831-4081-8872-1984a3bb5438/downloads"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "ff018c3d-efa6-4634-80e6-9ace4f7124de",
+            "collection_id": "testgl-95aa92ccfec3eefed3b7cc72de59db62160ea1efff8c791c7866ad7ce9fdb450",
+            "state": "imported",
+            "filename": "113-1132407_super-hero-png-pop-art-superhero-png-transparent.png",
+            "links": {
+                "self": "http://10.201.4.89:11600/images/ff018c3d-efa6-4634-80e6-9ace4f7124de",
+                "downloads": "http://10.201.4.89:11600/images/ff018c3d-efa6-4634-80e6-9ace4f7124de/downloads"
+            },
+            "upload": {
+                "path": "74894-113-1132407_super-hero-png-pop-art-superhero-png-transparentpng"
+            },
+            "type": "eye-candy"
+        },
+        {
+            "id": "60f52e974516fd3d2e2043f1"
+        },
+        {
+            "id": "60f96dc44516fd330e0edd41"
+        },
+        {
+            "id": "610123654516fd3d2e2043f2"
+        },
+        {
+            "id": "610162994516fd395c00b111"
+        },
+        {
+            "id": "6125fb264516fd2c2575e531"
+        },
+        {
+            "id": "61264d144516fd3e347cb2c1"
+        },
+        {
+            "id": "612669954516fd3e347cb2c2"
+        },
+        {
+            "id": "612783d94516fd0ed44879c1"
+        },
+        {
+            "id": "612786d74516fd0ec9696c31"
+        },
+        {
+            "id": "612796194516fd5a5c11e961"
+        },
+        {
+            "id": "6127b1494516fd6a7909efc1"
+        },
+        {
+            "id": "612f51d74516fd6a7909efc2"
+        },
+        {
+            "id": "612f52154516fd0ec9696c32"
+        },
+        {
+            "id": "612f52264516fd0ec9696c33"
+        },
+        {
+            "id": "612f524d4516fd6a7909efc3"
+        },
+        {
+            "id": "612f52784516fd6a7909efc4"
+        },
+        {
+            "id": "612f70af4516fd6a7909efc5"
+        },
+        {
+            "id": "613afe1c4516fd0ed44879c2"
+        }
+    ],
+    "total_count": 210
+}

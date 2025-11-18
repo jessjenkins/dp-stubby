@@ -1,0 +1,72 @@
+{
+  "section": {
+    "markdown": ""
+  },
+  "relatedDatasets": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccessquarterlyupdate/latest"
+    }
+  ],
+  "datasets": [
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q12012"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q42011"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q42011confidenceintervals"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q32011"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q32011confidenceintervals"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q12011"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q22011confidenceintervals"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q1q22011"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers/q12011confidenceintervals"
+    }
+  ],
+  "relatedMethodology": [],
+  "type": "dataset_landing_page",
+  "uri": "/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetusers",
+  "description": {
+    "title": "Internet Users",
+    "summary": "Data tables for the Internet Users publication",
+    "keywords": [
+      "internet users",
+      "internet non-users",
+      "disability",
+      "age",
+      "sex",
+      "marital status",
+      "region",
+      "ever used",
+      "never used",
+      "internet use,internet users,internet non-users,disability,age,sex,marital status,region,everused,never used,internet use"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "esociety@ons.gov.uk",
+      "name": "Cecil Prescott",
+      "telephone": "+44 (0)1633 456767"
+    },
+    "releaseDate": "2014-08-19T23:00:00.000Z",
+    "nextRelease": "",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

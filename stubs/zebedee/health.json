@@ -1,0 +1,22 @@
+{
+    "status": "OK",
+    "version": {
+        "build_time": "2024-11-20T20:09:31Z",
+        "git_commit": "c5591df32aa15d2753149c562b2254155d7b4890",
+        "language": "go",
+        "language_version": "go1.23.2",
+        "version": ""
+    },
+    "uptime": 3443838642,
+    "start_time": "2024-11-20T20:12:38.156337676Z",
+    "checks": [
+        {
+            "name": "Mongo DB",
+            "status": "OK",
+            "message": "mongodb is OK and all expected collections exist",
+            "last_checked": "2024-12-30T16:49:28.27526075Z",
+            "last_success": "2024-12-30T16:49:28.27526075Z",
+            "last_failure": null
+        }
+    ]
+}
